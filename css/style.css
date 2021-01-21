@@ -1046,3 +1046,10 @@ h4 {
         text-align: center;
     }
 }
+
+/* My changes in the code*/
+
+.footerLinks ul li{
+    list-style-type: none;
+    padding: 5px 0;
+}
