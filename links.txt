@@ -1,0 +1,4 @@
+https://web.dev/color-contrast/?utm_source=lighthouse&utm_medium=devtools
+https://www.w3.org/TR/WCAG21/#contrast-minimum
+https://contrast-ratio.com/
+https://github.com/GoogleChrome/lighthouse/issues/5559
